@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daril5
-- 👀 I’m interested in Nigeria
+- 👀 I’m interested in Data Science and ML
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on data science 
+- 💞️ I’m looking to collaborate on data science with ML 
 - 📫 How to reach me ajimobiridwan@hotmail.com
 
 <!---
